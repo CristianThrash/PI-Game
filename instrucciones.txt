@@ -1,0 +1,3 @@
+Concéntrese es un juego de memoría en el cúal hay una serie de cartas dispuestas en forma de matriz.Se permite levantar hasta 2 cartas, si estas son iguales salen del juego y el jugador gana puntos, si son diferentes se vuelven a colocar boca abajo. Si el jugador tiene una buena memoria aunque no gane puntos, sabrá la posición de las cartas que vuelven a estar boca abajo.
+
+En esta variante del juego, las cartas empatan solamente si se hace coincidir el concepto de propiedad intelectual con su descripción. Hay 3 niveles, uno más díficil que el anterior. No te equivoques más de 20 veces o perderas. Suerte!
